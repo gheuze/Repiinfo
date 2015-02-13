@@ -1,0 +1,97 @@
+numero;departement;region;abreviation;code;Niveau de surveillance;ISO_3166-2
+67;Bas-Rhin;Alsace;Alsace;67-Alsace;;FR-A
+68;Haut-Rhin;Alsace;Alsace;68-Alsace;;FR-A
+24;Dordogne;Aquitaine;AQ;24-AQ;;FR-B
+33;Gironde;Aquitaine;AQ;33-AQ;1;FR-B
+40;Landes;Aquitaine;AQ;40-AQ;;FR-B
+47;Lot-et-Garonne;Aquitaine;AQ;47-AQ;1;FR-B
+64;Pyrénées-Atlantiques;Aquitaine;AQ;64-AQ;;FR-B
+3;Allier;Auvergne;Auvergne;03-Auvergne;;FR-C
+15;Cantal;Auvergne;Auvergne;15-Auvergne;;FR-C
+43;Haute-Loire;Auvergne;Auvergne;43-Auvergne;;FR-C
+63;Puy-de-Dome;Auvergne;Auvergne;63-Auvergne;;FR-C
+14;Calvados;Basse-Normandie;BN;14-BN;;FR-P
+50;Manche;Basse-Normandie;BN;50-BN;;FR-P
+61;Orne;Basse-Normandie;BN;61-BN;;FR-P
+21;Cote-d'Or;Bourgogne;Bourgogne;21-Bourgogne;;FR-D
+58;Nièvre;Bourgogne;Bourgogne;58-Bourgogne;;FR-D
+71;Saone-et-Loire;Bourgogne;Bourgogne;71-Bourgogne;;FR-D
+89;Yonne;Bourgogne;Bourgogne;89-Bourgogne;;FR-D
+22;Cotes d'Armor;Bretagne;Bretagne;22-Bretagne;;FR-E
+29;Finistère;Bretagne;Bretagne;29-Bretagne;;FR-E
+35;Ille-et-Vilaine;Bretagne;Bretagne;35-Bretagne;;FR-E
+56;Morbihan;Bretagne;Bretagne;56-Bretagne;;FR-E
+18;Cher;Centre;Centre;18-Centre;;FR-F
+28;Eure-et-Loir;Centre;Centre;28-Centre;;FR-F
+36;Indre;Centre;Centre;36-Centre;;FR-F
+37;Indre-et-Loire;Centre;Centre;37-Centre;;FR-F
+41;Loir-et-Cher;Centre;Centre;41-Centre;;FR-F
+45;Loiret;Centre;Centre;45-Centre;;FR-F
+8;Ardennes;Champagne-Ardenne;CA;08-CA;;FR-G
+10;Aube;Champagne-Ardenne;CA;10-CA;;FR-G
+51;Marne;Champagne-Ardenne;CA;51-CA;;FR-G
+52;Haute-Marne;Champagne-Ardenne;CA;52-CA;;FR-G
+2A;Corse-du-Sud;Corse;Corse;2A-Corse;1;FR-H
+2B;Haute-Corse;Corse;Corse;2B-Corse;1;FR-H
+25;Doubs;Franche-Comté;FC;25-FC;;FR-I
+39;Jura;Franche-Comté;FC;39-FC;;FR-I
+70;Haute-Saone;Franche-Comté;FC;70-FC;;FR-I
+90;Territoire-de-Belfort;Franche-Comté;FC;90-FC;;FR-I
+27;Eure;Haute-Normandie;HN;27-HN;;FR-Q
+76;Seine-Maritime;Haute-Normandie;HN;76-HN;;FR-Q
+75;Paris;Ile-de-France;IdF;75-IdF;;FR-J
+77;Seine-et-Marne;Ile-de-France;IdF;77-IdF;;FR-J
+78;Yvelines;Ile-de-France;IdF;78-IdF;;FR-J
+91;Essonne;Ile-de-France;IdF;91-IdF;;FR-J
+92;Hauts-de-Seine;Ile-de-France;IdF;92-IdF;;FR-J
+93;Seine-Saint-Denis;Ile-de-France;IdF;93-IdF;;FR-J
+94;Val-de-Marne;Ile-de-France;IdF;94-IdF;;FR-J
+95;Val-d'Oise;Ile-de-France;IdF;95-IdF;;FR-J
+11;Aude;Languedoc-Roussillon;LR;11-LR;1;FR-K
+30;Gard;Languedoc-Roussillon;LR;30-LR;1;FR-K
+34;Hérault;Languedoc-Roussillon;LR;34-LR;1;FR-K
+48;Lozère;Languedoc-Roussillon;LR;48-LR;;FR-K
+66;Pyrénées-Orientales;Languedoc-Roussillon;LR;66-LR;1;FR-K
+19;Corrèze;Limousin;Limousin;19-Limousin;;FR-L
+23;Creuse;Limousin;Limousin;23-Limousin;;FR-L
+87;Haute-Vienne;Limousin;Limousin;87-Limousin;;FR-L
+54;Meurthe-et-Moselle;Lorraine;Lorraine;54-Lorraine;;FR-M
+55;Meuse;Lorraine;Lorraine;55-Lorraine;;FR-M
+57;Moselle;Lorraine;Lorraine;57-Lorraine;;FR-M
+88;Vosges;Lorraine;Lorraine;88-Lorraine;;FR-M
+9;Ariège;Midi-Pyrénées;MP;09-MP;;FR-N
+12;Aveyron;Midi-Pyrénées;MP;12-MP;;FR-N
+31;Haute-Garonne;Midi-Pyrénées;MP;31-MP;1;FR-N
+32;Gers;Midi-Pyrénées;MP;32-MP;;FR-N
+46;Lot;Midi-Pyrénées;MP;46-MP;;FR-N
+65;Hautes-Pyrénées;Midi-Pyrénées;MP;65-MP;;FR-N
+81;Tarn;Midi-Pyrénées;MP;81-MP;;FR-N
+82;Tarn-et-Garonne;Midi-Pyrénées;MP;82-MP;;FR-N
+59;Nord;Nord-Pas-de-Calais;NPdC;59-NPdC;;FR-O
+62;Pas-de-Calais;Nord-Pas-de-Calais;NPdC;62-NPdC;;FR-O
+44;Loire-Atlantique;Pays de la Loire;PdlL;44-PdlL;;FR-R
+49;Maine-et-Loire;Pays de la Loire;PdlL;49-PdlL;;FR-R
+53;Mayenne;Pays de la Loire;PdlL;53-PdlL;;FR-R
+72;Sarthe;Pays de la Loire;PdlL;72-PdlL;;FR-R
+85;Vendée;Pays de la Loire;PdlL;85-PdlL;;FR-R
+2;Aisne;Picardie;Picardie;02-Picardie;;FR-S
+60;Oise;Picardie;Picardie;60-Picardie;;FR-S
+80;Somme;Picardie;Picardie;80-Picardie;;FR-S
+16;Charente;Poitou-Charentes;PC;16-PC;;FR-T
+17;Charente-Maritime;Poitou-Charentes;PC;17-PC;;FR-T
+79;Deux-Sèvres;Poitou-Charentes;PC;79-PC;;FR-T
+86;Vienne;Poitou-Charentes;PC;86-PC;;FR-T
+4;Alpes de Haute-Provence;Provence-Alpes-Cote d'Azur;Paca;04-Paca;1;FR-U
+5;Hautes-Alpes;Provence-Alpes-Cote d'Azur;Paca;05-Paca;1;FR-U
+6;Alpes-Maritimes;Provence-Alpes-Cote d'Azur;Paca;06-Paca;1;FR-U
+13;Bouches-du-Rhône;Provence-Alpes-Cote d'Azur;Paca;13-Paca;1;FR-U
+83;Var;Provence-Alpes-Cote d'Azur;Paca;83-Paca;1;FR-U
+84;Vaucluse;Provence-Alpes-Cote d'Azur;Paca;84-Paca;1;FR-U
+1;Ain;Rhône-Alpes;RA;01-RA;;FR-V
+7;Ardèche;Rhône-Alpes;RA;07-RA;1;FR-V
+26;Drôme;Rhône-Alpes;RA;26-RA;1;FR-V
+38;Isère;Rhône-Alpes;RA;38-RA;1;FR-V
+42;Loire;Rhône-Alpes;RA;42-RA;;FR-V
+69;Rhône;Rhône-Alpes;RA;69-RA;1;FR-V
+73;Savoie;Rhône-Alpes;RA;73-RA;;FR-V
+74;Haute-Savoie;Rhône-Alpes;RA;74-RA;;FR-V

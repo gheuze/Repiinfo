@@ -13,6 +13,8 @@ library(epitools)
 library(maptools)
 library(rgdal)
 
+setwd("I:\\DIRECTION ACTION TERRITORIALE DE SANTE\\VSSE\\CIRE\\service\\formation\\R\\exemples scripts R\\Repiinfo\\Julien")
+
 # Table de correspondance des r?gions, d?partements et leurs codes.
 table <- read.csv(".\\Bases\\table.csv", header = TRUE, sep = ";")
 table[, which(names(table) == "region")] <- iconv(table[, which(names(table) == "region")], from = "LATIN2", to = "ASCII//TRANSLIT")
