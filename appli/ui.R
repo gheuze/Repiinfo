@@ -24,7 +24,7 @@ shinyUI(fluidPage(
       fileInput("fichier_brut", "Importez le fichier .csv",
                 accept = c('text/csv', 'text/comma-separated-values,text/plain'))
       
-      # présentation de l'import
+      # presentation de l'import
       
       
     ),

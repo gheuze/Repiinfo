@@ -23,7 +23,7 @@ shinyServer(function(input, output,session) {   ## faut-il session, a la suite d
         
         
         
-        var_class <- data.frame(names(donnees),classeCol(donnees)) # création du df avec les noms des variables et les classes
+        var_class <- data.frame(names(donnees),classeCol(donnees)) # creation du df avec les noms des variables et les classes
         names(var_class) <- c("noms des variables","classes des variables")
         return(var_class)
       })
